@@ -1,0 +1,11 @@
+C:\csharp\ar\staticclassesandmembers\bin\Debug\netcoreapp3.0\staticclassesandmembers.exe
+C:\csharp\ar\staticclassesandmembers\bin\Debug\netcoreapp3.0\staticclassesandmembers.deps.json
+C:\csharp\ar\staticclassesandmembers\bin\Debug\netcoreapp3.0\staticclassesandmembers.runtimeconfig.json
+C:\csharp\ar\staticclassesandmembers\bin\Debug\netcoreapp3.0\staticclassesandmembers.runtimeconfig.dev.json
+C:\csharp\ar\staticclassesandmembers\bin\Debug\netcoreapp3.0\staticclassesandmembers.dll
+C:\csharp\ar\staticclassesandmembers\bin\Debug\netcoreapp3.0\staticclassesandmembers.pdb
+C:\csharp\ar\staticclassesandmembers\obj\Debug\netcoreapp3.0\staticclassesandmembers.csprojAssemblyReference.cache
+C:\csharp\ar\staticclassesandmembers\obj\Debug\netcoreapp3.0\staticclassesandmembers.AssemblyInfoInputs.cache
+C:\csharp\ar\staticclassesandmembers\obj\Debug\netcoreapp3.0\staticclassesandmembers.AssemblyInfo.cs
+C:\csharp\ar\staticclassesandmembers\obj\Debug\netcoreapp3.0\staticclassesandmembers.dll
+C:\csharp\ar\staticclassesandmembers\obj\Debug\netcoreapp3.0\staticclassesandmembers.pdb
